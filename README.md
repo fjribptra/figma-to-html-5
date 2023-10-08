@@ -15,7 +15,7 @@ Halo semua, ini adalah project slicing figma design ke html. Project ini dibuat 
 
 ## Tech Stack
 
-HTML, CSS, Javascript
+HTML, CSS
 
 
 ## Run Locally
